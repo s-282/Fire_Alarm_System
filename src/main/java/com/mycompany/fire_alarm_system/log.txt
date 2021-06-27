@@ -1,0 +1,3318 @@
+20-11-2020 14:04:56
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 30.48
+ Heat Sensor threshold not reached and value is 34.73
+ Smoke Sensor threshold not reached and value is 39.31
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 46.27
+ Heat Sensor threshold not reached and value is 35.73
+ Smoke Sensor threshold not reached and value is 36.36
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.66
+ Heat Sensor threshold not reached and value is 38.68
+ Smoke Sensor threshold not reached and value is 28.19
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.1
+ Heat Sensor threshold reached and value is 46.79
+ Smoke Sensor threshold not reached and value is 36.4
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 42.65
+ Heat Sensor threshold not reached and value is 41.71
+ Smoke Sensor threshold not reached and value is 26.78
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.8
+ Heat Sensor threshold not reached and value is 31.49
+ Smoke Sensor threshold not reached and value is 28.1
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.52
+ Heat Sensor threshold not reached and value is 41.07
+ Smoke Sensor threshold not reached and value is 23.29
+Moderate
+_______________
+
+************************************************************
+20-11-2020 14:06:38
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold reached and value is 35.45
+ Heat Sensor threshold not reached and value is 32.08
+ Smoke Sensor threshold not reached and value is 32.57
+Moderate
+_______________
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold reached and value is 36.13
+ Heat Sensor threshold reached and value is 45.68
+ Smoke Sensor threshold not reached and value is 30.11
+Unsafe
+_______________
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold reached and value is 35.59
+ Heat Sensor threshold not reached and value is 40.8
+ Smoke Sensor threshold not reached and value is 30.99
+Moderate
+_______________
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold reached and value is 44.18
+ Heat Sensor threshold reached and value is 50.81
+ Smoke Sensor threshold not reached and value is 41.7
+Unsafe
+_______________
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold not reached and value is 26.27
+ Heat Sensor threshold not reached and value is 36.11
+ Smoke Sensor threshold not reached and value is 25.27
+Safe
+_______________
+SECOND FLOOR   Smoke Sensor id is 33
+ CO Sensor id is   1
+Heat Sensor id is  22
+Room 2
+ CO Sensor threshold not reached and value is 26.25
+ Heat Sensor threshold not reached and value is 44.2
+ Smoke Sensor threshold not reached and value is 26.03
+Safe
+_______________
+
+************************************************************
+20-11-2020 15:23:09
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.79
+ Heat Sensor threshold not reached and value is 26.0
+ Smoke Sensor threshold reached and value is 27.84
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.57
+ Heat Sensor threshold not reached and value is 34.6
+ Smoke Sensor threshold reached and value is 26.51
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.68
+ Heat Sensor threshold not reached and value is 33.29
+ Smoke Sensor threshold not reached and value is 22.9
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 12.07
+ Heat Sensor threshold reached and value is 50.22
+ Smoke Sensor threshold reached and value is 23.15
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 14.02
+ Heat Sensor threshold not reached and value is 45.31
+ Smoke Sensor threshold reached and value is 29.18
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.61
+ Heat Sensor threshold reached and value is 54.51
+ Smoke Sensor threshold reached and value is 24.07
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.06
+ Heat Sensor threshold reached and value is 54.31
+ Smoke Sensor threshold reached and value is 38.0
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.92
+ Heat Sensor threshold not reached and value is 35.42
+ Smoke Sensor threshold reached and value is 39.54
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.26
+ Heat Sensor threshold reached and value is 53.94
+ Smoke Sensor threshold reached and value is 39.44
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 11.95
+ Heat Sensor threshold not reached and value is 38.11
+ Smoke Sensor threshold reached and value is 41.77
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 12.69
+ Heat Sensor threshold not reached and value is 29.58
+ Smoke Sensor threshold reached and value is 40.07
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.07
+ Heat Sensor threshold not reached and value is 27.2
+ Smoke Sensor threshold not reached and value is 19.41
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 13.74
+ Heat Sensor threshold reached and value is 54.12
+ Smoke Sensor threshold reached and value is 26.95
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.03
+ Heat Sensor threshold not reached and value is 35.38
+ Smoke Sensor threshold reached and value is 32.88
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 13.21
+ Heat Sensor threshold reached and value is 48.11
+ Smoke Sensor threshold reached and value is 36.97
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.64
+ Heat Sensor threshold not reached and value is 42.67
+ Smoke Sensor threshold reached and value is 33.88
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.48
+ Heat Sensor threshold reached and value is 52.74
+ Smoke Sensor threshold reached and value is 41.56
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.31
+ Heat Sensor threshold reached and value is 53.15
+ Smoke Sensor threshold reached and value is 26.06
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 11.54
+ Heat Sensor threshold reached and value is 50.72
+ Smoke Sensor threshold reached and value is 40.05
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.37
+ Heat Sensor threshold not reached and value is 30.11
+ Smoke Sensor threshold reached and value is 39.35
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.83
+ Heat Sensor threshold not reached and value is 23.07
+ Smoke Sensor threshold reached and value is 34.12
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 14.95
+ Heat Sensor threshold reached and value is 48.1
+ Smoke Sensor threshold reached and value is 35.05
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.01
+ Heat Sensor threshold not reached and value is 33.96
+ Smoke Sensor threshold reached and value is 27.85
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.89
+ Heat Sensor threshold not reached and value is 42.06
+ Smoke Sensor threshold reached and value is 25.38
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 11.51
+ Heat Sensor threshold not reached and value is 42.09
+ Smoke Sensor threshold reached and value is 39.38
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.3
+ Heat Sensor threshold reached and value is 50.07
+ Smoke Sensor threshold not reached and value is 20.05
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.44
+ Heat Sensor threshold not reached and value is 39.28
+ Smoke Sensor threshold reached and value is 29.14
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.32
+ Heat Sensor threshold not reached and value is 31.84
+ Smoke Sensor threshold reached and value is 39.4
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.38
+ Heat Sensor threshold reached and value is 52.24
+ Smoke Sensor threshold reached and value is 38.1
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.37
+ Heat Sensor threshold not reached and value is 35.26
+ Smoke Sensor threshold reached and value is 25.17
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.85
+ Heat Sensor threshold reached and value is 52.13
+ Smoke Sensor threshold reached and value is 35.27
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 13.63
+ Heat Sensor threshold reached and value is 51.06
+ Smoke Sensor threshold reached and value is 23.93
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.81
+ Heat Sensor threshold not reached and value is 34.72
+ Smoke Sensor threshold reached and value is 33.67
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.28
+ Heat Sensor threshold reached and value is 52.49
+ Smoke Sensor threshold not reached and value is 20.72
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.55
+ Heat Sensor threshold not reached and value is 32.52
+ Smoke Sensor threshold reached and value is 30.04
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.69
+ Heat Sensor threshold not reached and value is 41.05
+ Smoke Sensor threshold not reached and value is 20.64
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 14.92
+ Heat Sensor threshold reached and value is 48.17
+ Smoke Sensor threshold not reached and value is 17.77
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.32
+ Heat Sensor threshold not reached and value is 42.01
+ Smoke Sensor threshold not reached and value is 18.87
+Safe
+_______________
+
+************************************************************
+20-11-2020 15:29:36
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.96
+ Heat Sensor threshold not reached and value is 22.55
+ Smoke Sensor threshold not reached and value is 22.9
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.46
+ Heat Sensor threshold not reached and value is 24.4
+ Smoke Sensor threshold reached and value is 34.0
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.99
+ Heat Sensor threshold not reached and value is 18.19
+ Smoke Sensor threshold not reached and value is 20.49
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.66
+ Heat Sensor threshold not reached and value is 28.06
+ Smoke Sensor threshold not reached and value is 18.35
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.25
+ Heat Sensor threshold reached and value is 30.24
+ Smoke Sensor threshold not reached and value is 24.64
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.54
+ Heat Sensor threshold reached and value is 32.44
+ Smoke Sensor threshold not reached and value is 20.82
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.55
+ Heat Sensor threshold reached and value is 32.81
+ Smoke Sensor threshold not reached and value is 25.64
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.05
+ Heat Sensor threshold not reached and value is 27.95
+ Smoke Sensor threshold not reached and value is 17.09
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.79
+ Heat Sensor threshold not reached and value is 28.75
+ Smoke Sensor threshold not reached and value is 17.95
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.53
+ Heat Sensor threshold reached and value is 30.53
+ Smoke Sensor threshold not reached and value is 16.53
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.44
+ Heat Sensor threshold reached and value is 31.56
+ Smoke Sensor threshold not reached and value is 21.07
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.53
+ Heat Sensor threshold not reached and value is 25.65
+ Smoke Sensor threshold reached and value is 30.64
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.78
+ Heat Sensor threshold reached and value is 32.19
+ Smoke Sensor threshold not reached and value is 15.16
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.32
+ Heat Sensor threshold reached and value is 34.15
+ Smoke Sensor threshold reached and value is 33.31
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.45
+ Heat Sensor threshold reached and value is 30.72
+ Smoke Sensor threshold not reached and value is 26.7
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.56
+ Heat Sensor threshold not reached and value is 23.88
+ Smoke Sensor threshold reached and value is 33.45
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.94
+ Heat Sensor threshold not reached and value is 19.84
+ Smoke Sensor threshold not reached and value is 16.81
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.89
+ Heat Sensor threshold not reached and value is 18.46
+ Smoke Sensor threshold reached and value is 33.13
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.82
+ Heat Sensor threshold not reached and value is 28.94
+ Smoke Sensor threshold not reached and value is 27.54
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.98
+ Heat Sensor threshold reached and value is 31.67
+ Smoke Sensor threshold not reached and value is 27.05
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.18
+ Heat Sensor threshold not reached and value is 18.15
+ Smoke Sensor threshold not reached and value is 16.79
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.2
+ Heat Sensor threshold reached and value is 35.74
+ Smoke Sensor threshold not reached and value is 23.53
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.75
+ Heat Sensor threshold not reached and value is 16.51
+ Smoke Sensor threshold not reached and value is 22.48
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.6
+ Heat Sensor threshold reached and value is 33.23
+ Smoke Sensor threshold not reached and value is 25.14
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.99
+ Heat Sensor threshold not reached and value is 20.21
+ Smoke Sensor threshold not reached and value is 24.3
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.65
+ Heat Sensor threshold not reached and value is 15.78
+ Smoke Sensor threshold reached and value is 35.35
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.9
+ Heat Sensor threshold not reached and value is 24.78
+ Smoke Sensor threshold not reached and value is 25.62
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.07
+ Heat Sensor threshold reached and value is 30.29
+ Smoke Sensor threshold not reached and value is 19.83
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.77
+ Heat Sensor threshold not reached and value is 25.94
+ Smoke Sensor threshold not reached and value is 27.92
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.29
+ Heat Sensor threshold not reached and value is 20.15
+ Smoke Sensor threshold reached and value is 34.78
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.86
+ Heat Sensor threshold not reached and value is 19.35
+ Smoke Sensor threshold not reached and value is 20.06
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.15
+ Heat Sensor threshold not reached and value is 28.29
+ Smoke Sensor threshold not reached and value is 24.71
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.53
+ Heat Sensor threshold not reached and value is 20.62
+ Smoke Sensor threshold not reached and value is 21.07
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.43
+ Heat Sensor threshold not reached and value is 21.28
+ Smoke Sensor threshold reached and value is 35.09
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.89
+ Heat Sensor threshold not reached and value is 26.67
+ Smoke Sensor threshold reached and value is 32.78
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.92
+ Heat Sensor threshold reached and value is 33.32
+ Smoke Sensor threshold reached and value is 34.05
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.87
+ Heat Sensor threshold not reached and value is 20.47
+ Smoke Sensor threshold reached and value is 30.89
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.43
+ Heat Sensor threshold reached and value is 35.22
+ Smoke Sensor threshold not reached and value is 28.49
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.69
+ Heat Sensor threshold not reached and value is 20.95
+ Smoke Sensor threshold not reached and value is 19.66
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.36
+ Heat Sensor threshold not reached and value is 18.93
+ Smoke Sensor threshold reached and value is 30.27
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.38
+ Heat Sensor threshold not reached and value is 23.84
+ Smoke Sensor threshold not reached and value is 15.17
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.52
+ Heat Sensor threshold not reached and value is 23.32
+ Smoke Sensor threshold not reached and value is 29.26
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.5
+ Heat Sensor threshold reached and value is 32.14
+ Smoke Sensor threshold reached and value is 33.61
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.37
+ Heat Sensor threshold not reached and value is 24.23
+ Smoke Sensor threshold not reached and value is 22.74
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.73
+ Heat Sensor threshold not reached and value is 16.85
+ Smoke Sensor threshold not reached and value is 15.01
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.93
+ Heat Sensor threshold not reached and value is 28.04
+ Smoke Sensor threshold not reached and value is 26.06
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.88
+ Heat Sensor threshold not reached and value is 23.05
+ Smoke Sensor threshold not reached and value is 29.57
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.95
+ Heat Sensor threshold not reached and value is 24.25
+ Smoke Sensor threshold not reached and value is 15.25
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.17
+ Heat Sensor threshold not reached and value is 27.35
+ Smoke Sensor threshold not reached and value is 23.84
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.25
+ Heat Sensor threshold reached and value is 32.17
+ Smoke Sensor threshold reached and value is 34.07
+Critical
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.66
+ Heat Sensor threshold not reached and value is 15.89
+ Smoke Sensor threshold not reached and value is 16.81
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.41
+ Heat Sensor threshold not reached and value is 28.88
+ Smoke Sensor threshold reached and value is 34.91
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.3
+ Heat Sensor threshold not reached and value is 20.0
+ Smoke Sensor threshold not reached and value is 24.76
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.28
+ Heat Sensor threshold reached and value is 33.4
+ Smoke Sensor threshold not reached and value is 15.77
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.88
+ Heat Sensor threshold not reached and value is 26.15
+ Smoke Sensor threshold not reached and value is 28.02
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.35
+ Heat Sensor threshold not reached and value is 17.59
+ Smoke Sensor threshold not reached and value is 25.95
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.34
+ Heat Sensor threshold not reached and value is 22.59
+ Smoke Sensor threshold not reached and value is 19.31
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.37
+ Heat Sensor threshold not reached and value is 20.54
+ Smoke Sensor threshold not reached and value is 19.31
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.05
+ Heat Sensor threshold not reached and value is 21.93
+ Smoke Sensor threshold not reached and value is 19.69
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.19
+ Heat Sensor threshold reached and value is 31.76
+ Smoke Sensor threshold not reached and value is 25.34
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.32
+ Heat Sensor threshold not reached and value is 16.49
+ Smoke Sensor threshold not reached and value is 26.3
+Safe
+_______________
+
+************************************************************
+20-11-2020 15:33:26
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 14.11
+ Heat Sensor threshold reached and value is 41.02
+ Smoke Sensor threshold not reached and value is 16.67
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 29.06
+ Heat Sensor threshold not reached and value is 33.8
+ Smoke Sensor threshold not reached and value is 23.64
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 23.72
+ Heat Sensor threshold not reached and value is 25.72
+ Smoke Sensor threshold not reached and value is 23.83
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold reached and value is 31.57
+ Heat Sensor threshold not reached and value is 31.26
+ Smoke Sensor threshold reached and value is 29.61
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold reached and value is 30.1
+ Heat Sensor threshold reached and value is 40.5
+ Smoke Sensor threshold not reached and value is 20.37
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 14.18
+ Heat Sensor threshold not reached and value is 25.61
+ Smoke Sensor threshold not reached and value is 22.84
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 25.99
+ Heat Sensor threshold reached and value is 43.65
+ Smoke Sensor threshold not reached and value is 21.04
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 23.5
+ Heat Sensor threshold not reached and value is 34.34
+ Smoke Sensor threshold not reached and value is 25.18
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 20.45
+ Heat Sensor threshold not reached and value is 39.26
+ Smoke Sensor threshold not reached and value is 20.72
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 25.5
+ Heat Sensor threshold not reached and value is 28.57
+ Smoke Sensor threshold not reached and value is 25.75
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 29.09
+ Heat Sensor threshold not reached and value is 20.4
+ Smoke Sensor threshold not reached and value is 25.95
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 28.84
+ Heat Sensor threshold not reached and value is 38.51
+ Smoke Sensor threshold not reached and value is 18.97
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 20.83
+ Heat Sensor threshold not reached and value is 34.79
+ Smoke Sensor threshold not reached and value is 26.22
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 24.0
+ Heat Sensor threshold not reached and value is 37.37
+ Smoke Sensor threshold not reached and value is 17.15
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold reached and value is 30.23
+ Heat Sensor threshold not reached and value is 25.3
+ Smoke Sensor threshold reached and value is 30.06
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 28.93
+ Heat Sensor threshold reached and value is 40.39
+ Smoke Sensor threshold reached and value is 34.01
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 21.86
+ Heat Sensor threshold not reached and value is 36.41
+ Smoke Sensor threshold not reached and value is 25.02
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 17.55
+ Heat Sensor threshold reached and value is 44.79
+ Smoke Sensor threshold reached and value is 29.05
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 27.58
+ Heat Sensor threshold reached and value is 40.65
+ Smoke Sensor threshold not reached and value is 20.36
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 26.98
+ Heat Sensor threshold reached and value is 42.22
+ Smoke Sensor threshold reached and value is 30.33
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 23.04
+ Heat Sensor threshold not reached and value is 27.93
+ Smoke Sensor threshold reached and value is 35.84
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 15.44
+ Heat Sensor threshold not reached and value is 23.48
+ Smoke Sensor threshold not reached and value is 27.75
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 28.07
+ Heat Sensor threshold not reached and value is 25.43
+ Smoke Sensor threshold reached and value is 34.57
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 27.51
+ Heat Sensor threshold not reached and value is 20.72
+ Smoke Sensor threshold not reached and value is 20.51
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 28.59
+ Heat Sensor threshold not reached and value is 30.41
+ Smoke Sensor threshold reached and value is 28.26
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 22.76
+ Heat Sensor threshold not reached and value is 37.13
+ Smoke Sensor threshold not reached and value is 15.73
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 24.56
+ Heat Sensor threshold reached and value is 45.16
+ Smoke Sensor threshold not reached and value is 27.94
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 24.16
+ Heat Sensor threshold not reached and value is 24.3
+ Smoke Sensor threshold not reached and value is 15.9
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 16.91
+ Heat Sensor threshold not reached and value is 28.26
+ Smoke Sensor threshold reached and value is 31.29
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 21.31
+ Heat Sensor threshold not reached and value is 33.05
+ Smoke Sensor threshold not reached and value is 15.36
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold reached and value is 31.74
+ Heat Sensor threshold reached and value is 41.65
+ Smoke Sensor threshold not reached and value is 16.74
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 21.5
+ Heat Sensor threshold not reached and value is 32.04
+ Smoke Sensor threshold not reached and value is 16.07
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 29.26
+ Heat Sensor threshold reached and value is 43.29
+ Smoke Sensor threshold not reached and value is 15.87
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 21.44
+ Heat Sensor threshold not reached and value is 31.88
+ Smoke Sensor threshold not reached and value is 16.56
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   12
+Heat Sensor id is  1
+Room 1
+ CO Sensor threshold not reached and value is 24.71
+ Heat Sensor threshold not reached and value is 29.24
+ Smoke Sensor threshold reached and value is 30.58
+Moderate
+_______________
+
+************************************************************
+20-11-2020 15:39:01
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.68
+ Heat Sensor threshold not reached and value is 22.92
+ Smoke Sensor threshold not reached and value is 26.1
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.97
+ Heat Sensor threshold not reached and value is 18.29
+ Smoke Sensor threshold not reached and value is 18.28
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.27
+ Heat Sensor threshold not reached and value is 18.68
+ Smoke Sensor threshold not reached and value is 32.1
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.86
+ Heat Sensor threshold not reached and value is 28.71
+ Smoke Sensor threshold not reached and value is 23.37
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.88
+ Heat Sensor threshold not reached and value is 17.26
+ Smoke Sensor threshold not reached and value is 33.76
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.67
+ Heat Sensor threshold not reached and value is 27.17
+ Smoke Sensor threshold not reached and value is 20.48
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.65
+ Heat Sensor threshold not reached and value is 21.61
+ Smoke Sensor threshold not reached and value is 29.4
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.04
+ Heat Sensor threshold reached and value is 34.46
+ Smoke Sensor threshold not reached and value is 28.1
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 39.26
+ Heat Sensor threshold not reached and value is 22.95
+ Smoke Sensor threshold not reached and value is 25.19
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.53
+ Heat Sensor threshold not reached and value is 21.64
+ Smoke Sensor threshold not reached and value is 24.73
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 45.06
+ Heat Sensor threshold not reached and value is 16.84
+ Smoke Sensor threshold not reached and value is 23.33
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 43.7
+ Heat Sensor threshold not reached and value is 24.13
+ Smoke Sensor threshold not reached and value is 27.1
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.37
+ Heat Sensor threshold reached and value is 34.39
+ Smoke Sensor threshold not reached and value is 23.28
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.3
+ Heat Sensor threshold not reached and value is 28.62
+ Smoke Sensor threshold not reached and value is 25.84
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.0
+ Heat Sensor threshold reached and value is 32.56
+ Smoke Sensor threshold not reached and value is 34.78
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 39.66
+ Heat Sensor threshold reached and value is 35.85
+ Smoke Sensor threshold not reached and value is 29.7
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.76
+ Heat Sensor threshold not reached and value is 17.16
+ Smoke Sensor threshold not reached and value is 23.89
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.33
+ Heat Sensor threshold reached and value is 35.62
+ Smoke Sensor threshold not reached and value is 18.47
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 46.86
+ Heat Sensor threshold not reached and value is 19.29
+ Smoke Sensor threshold not reached and value is 31.33
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.4
+ Heat Sensor threshold not reached and value is 26.03
+ Smoke Sensor threshold not reached and value is 17.56
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.38
+ Heat Sensor threshold reached and value is 34.2
+ Smoke Sensor threshold not reached and value is 28.15
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 40.31
+ Heat Sensor threshold not reached and value is 15.18
+ Smoke Sensor threshold not reached and value is 35.49
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 44.44
+ Heat Sensor threshold not reached and value is 18.26
+ Smoke Sensor threshold not reached and value is 17.86
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.71
+ Heat Sensor threshold not reached and value is 26.57
+ Smoke Sensor threshold not reached and value is 22.19
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 40.53
+ Heat Sensor threshold reached and value is 35.86
+ Smoke Sensor threshold not reached and value is 15.76
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.98
+ Heat Sensor threshold reached and value is 32.62
+ Smoke Sensor threshold not reached and value is 21.9
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.62
+ Heat Sensor threshold reached and value is 31.41
+ Smoke Sensor threshold not reached and value is 15.52
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 43.02
+ Heat Sensor threshold not reached and value is 29.77
+ Smoke Sensor threshold not reached and value is 31.01
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.35
+ Heat Sensor threshold not reached and value is 27.86
+ Smoke Sensor threshold not reached and value is 25.58
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.22
+ Heat Sensor threshold not reached and value is 28.7
+ Smoke Sensor threshold not reached and value is 31.05
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.64
+ Heat Sensor threshold not reached and value is 22.99
+ Smoke Sensor threshold not reached and value is 34.06
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.81
+ Heat Sensor threshold not reached and value is 21.52
+ Smoke Sensor threshold not reached and value is 30.16
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 45.16
+ Heat Sensor threshold not reached and value is 23.81
+ Smoke Sensor threshold not reached and value is 15.58
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.42
+ Heat Sensor threshold not reached and value is 22.75
+ Smoke Sensor threshold not reached and value is 21.45
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.15
+ Heat Sensor threshold not reached and value is 20.54
+ Smoke Sensor threshold not reached and value is 34.75
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.83
+ Heat Sensor threshold reached and value is 32.36
+ Smoke Sensor threshold not reached and value is 19.1
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.02
+ Heat Sensor threshold not reached and value is 27.77
+ Smoke Sensor threshold not reached and value is 29.01
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.65
+ Heat Sensor threshold not reached and value is 18.98
+ Smoke Sensor threshold not reached and value is 28.87
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.16
+ Heat Sensor threshold reached and value is 35.77
+ Smoke Sensor threshold not reached and value is 27.01
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.94
+ Heat Sensor threshold not reached and value is 29.55
+ Smoke Sensor threshold not reached and value is 18.84
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.06
+ Heat Sensor threshold not reached and value is 16.49
+ Smoke Sensor threshold not reached and value is 30.57
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 42.29
+ Heat Sensor threshold not reached and value is 23.37
+ Smoke Sensor threshold not reached and value is 23.33
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.97
+ Heat Sensor threshold reached and value is 33.28
+ Smoke Sensor threshold not reached and value is 29.94
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.3
+ Heat Sensor threshold not reached and value is 25.61
+ Smoke Sensor threshold not reached and value is 25.9
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.12
+ Heat Sensor threshold reached and value is 34.78
+ Smoke Sensor threshold not reached and value is 35.72
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.35
+ Heat Sensor threshold not reached and value is 19.21
+ Smoke Sensor threshold not reached and value is 19.3
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 43.19
+ Heat Sensor threshold reached and value is 33.75
+ Smoke Sensor threshold not reached and value is 23.53
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 45.31
+ Heat Sensor threshold not reached and value is 18.49
+ Smoke Sensor threshold not reached and value is 26.97
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.27
+ Heat Sensor threshold reached and value is 34.47
+ Smoke Sensor threshold not reached and value is 19.38
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.43
+ Heat Sensor threshold reached and value is 35.53
+ Smoke Sensor threshold not reached and value is 15.41
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.08
+ Heat Sensor threshold not reached and value is 29.14
+ Smoke Sensor threshold not reached and value is 24.83
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.9
+ Heat Sensor threshold reached and value is 35.38
+ Smoke Sensor threshold not reached and value is 21.9
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.35
+ Heat Sensor threshold not reached and value is 18.21
+ Smoke Sensor threshold not reached and value is 25.2
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 45.19
+ Heat Sensor threshold not reached and value is 26.07
+ Smoke Sensor threshold not reached and value is 16.81
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.83
+ Heat Sensor threshold reached and value is 31.98
+ Smoke Sensor threshold not reached and value is 15.23
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.69
+ Heat Sensor threshold not reached and value is 27.49
+ Smoke Sensor threshold not reached and value is 33.02
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.54
+ Heat Sensor threshold not reached and value is 16.63
+ Smoke Sensor threshold not reached and value is 28.15
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.62
+ Heat Sensor threshold not reached and value is 15.82
+ Smoke Sensor threshold not reached and value is 32.36
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.56
+ Heat Sensor threshold not reached and value is 21.5
+ Smoke Sensor threshold not reached and value is 20.42
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.43
+ Heat Sensor threshold not reached and value is 23.62
+ Smoke Sensor threshold not reached and value is 21.96
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.06
+ Heat Sensor threshold reached and value is 31.66
+ Smoke Sensor threshold not reached and value is 20.08
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.23
+ Heat Sensor threshold not reached and value is 23.07
+ Smoke Sensor threshold not reached and value is 16.86
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.75
+ Heat Sensor threshold reached and value is 30.61
+ Smoke Sensor threshold not reached and value is 29.12
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 36.59
+ Heat Sensor threshold not reached and value is 25.92
+ Smoke Sensor threshold not reached and value is 15.55
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 38.46
+ Heat Sensor threshold not reached and value is 19.98
+ Smoke Sensor threshold not reached and value is 35.99
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.98
+ Heat Sensor threshold reached and value is 35.99
+ Smoke Sensor threshold not reached and value is 25.26
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.65
+ Heat Sensor threshold not reached and value is 25.98
+ Smoke Sensor threshold not reached and value is 30.21
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.1
+ Heat Sensor threshold not reached and value is 24.57
+ Smoke Sensor threshold not reached and value is 23.97
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.33
+ Heat Sensor threshold reached and value is 32.98
+ Smoke Sensor threshold not reached and value is 25.28
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.28
+ Heat Sensor threshold reached and value is 31.06
+ Smoke Sensor threshold not reached and value is 24.48
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.64
+ Heat Sensor threshold reached and value is 34.96
+ Smoke Sensor threshold not reached and value is 20.49
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.85
+ Heat Sensor threshold not reached and value is 27.36
+ Smoke Sensor threshold not reached and value is 29.33
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.61
+ Heat Sensor threshold reached and value is 32.53
+ Smoke Sensor threshold not reached and value is 35.38
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.61
+ Heat Sensor threshold not reached and value is 18.01
+ Smoke Sensor threshold not reached and value is 18.21
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.4
+ Heat Sensor threshold reached and value is 33.55
+ Smoke Sensor threshold not reached and value is 25.07
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.12
+ Heat Sensor threshold not reached and value is 29.46
+ Smoke Sensor threshold not reached and value is 23.68
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 45.01
+ Heat Sensor threshold not reached and value is 25.83
+ Smoke Sensor threshold not reached and value is 21.26
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.87
+ Heat Sensor threshold reached and value is 33.86
+ Smoke Sensor threshold not reached and value is 16.73
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 40.34
+ Heat Sensor threshold not reached and value is 22.69
+ Smoke Sensor threshold not reached and value is 16.1
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.8
+ Heat Sensor threshold not reached and value is 26.6
+ Smoke Sensor threshold not reached and value is 32.67
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.11
+ Heat Sensor threshold not reached and value is 17.88
+ Smoke Sensor threshold not reached and value is 34.38
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 47.99
+ Heat Sensor threshold not reached and value is 15.73
+ Smoke Sensor threshold not reached and value is 21.51
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 41.66
+ Heat Sensor threshold reached and value is 34.21
+ Smoke Sensor threshold not reached and value is 35.84
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.66
+ Heat Sensor threshold reached and value is 35.77
+ Smoke Sensor threshold not reached and value is 15.98
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.13
+ Heat Sensor threshold not reached and value is 27.0
+ Smoke Sensor threshold not reached and value is 20.4
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.21
+ Heat Sensor threshold not reached and value is 18.2
+ Smoke Sensor threshold not reached and value is 34.15
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.73
+ Heat Sensor threshold not reached and value is 28.6
+ Smoke Sensor threshold not reached and value is 30.54
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 37.62
+ Heat Sensor threshold not reached and value is 15.88
+ Smoke Sensor threshold not reached and value is 28.45
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.4
+ Heat Sensor threshold not reached and value is 15.64
+ Smoke Sensor threshold not reached and value is 22.4
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.47
+ Heat Sensor threshold not reached and value is 27.46
+ Smoke Sensor threshold not reached and value is 17.08
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.63
+ Heat Sensor threshold not reached and value is 26.56
+ Smoke Sensor threshold not reached and value is 35.73
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 37.65
+ Heat Sensor threshold not reached and value is 23.91
+ Smoke Sensor threshold not reached and value is 22.17
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.89
+ Heat Sensor threshold not reached and value is 20.21
+ Smoke Sensor threshold not reached and value is 24.26
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.41
+ Heat Sensor threshold reached and value is 32.41
+ Smoke Sensor threshold not reached and value is 19.97
+Moderate
+_______________
+
+************************************************************
+20-11-2020 15:44:32
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.3
+ Heat Sensor threshold not reached and value is 16.35
+ Smoke Sensor threshold not reached and value is 19.96
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.92
+ Heat Sensor threshold not reached and value is 27.21
+ Smoke Sensor threshold not reached and value is 29.47
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.97
+ Heat Sensor threshold reached and value is 30.28
+ Smoke Sensor threshold not reached and value is 22.53
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.46
+ Heat Sensor threshold not reached and value is 17.83
+ Smoke Sensor threshold reached and value is 33.16
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.98
+ Heat Sensor threshold not reached and value is 27.41
+ Smoke Sensor threshold reached and value is 35.98
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.24
+ Heat Sensor threshold not reached and value is 20.75
+ Smoke Sensor threshold not reached and value is 22.14
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.74
+ Heat Sensor threshold reached and value is 33.54
+ Smoke Sensor threshold reached and value is 30.33
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.87
+ Heat Sensor threshold not reached and value is 21.62
+ Smoke Sensor threshold not reached and value is 19.87
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.82
+ Heat Sensor threshold not reached and value is 18.82
+ Smoke Sensor threshold not reached and value is 27.76
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.9
+ Heat Sensor threshold not reached and value is 26.96
+ Smoke Sensor threshold not reached and value is 27.12
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.68
+ Heat Sensor threshold reached and value is 30.59
+ Smoke Sensor threshold not reached and value is 22.5
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.48
+ Heat Sensor threshold not reached and value is 17.68
+ Smoke Sensor threshold not reached and value is 26.74
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.19
+ Heat Sensor threshold reached and value is 32.58
+ Smoke Sensor threshold reached and value is 32.21
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.8
+ Heat Sensor threshold not reached and value is 23.31
+ Smoke Sensor threshold not reached and value is 17.22
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.97
+ Heat Sensor threshold not reached and value is 27.95
+ Smoke Sensor threshold reached and value is 33.86
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.98
+ Heat Sensor threshold not reached and value is 20.55
+ Smoke Sensor threshold not reached and value is 15.19
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.22
+ Heat Sensor threshold reached and value is 31.39
+ Smoke Sensor threshold reached and value is 30.51
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.31
+ Heat Sensor threshold reached and value is 35.38
+ Smoke Sensor threshold not reached and value is 16.69
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.08
+ Heat Sensor threshold not reached and value is 16.15
+ Smoke Sensor threshold reached and value is 32.57
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.72
+ Heat Sensor threshold not reached and value is 28.37
+ Smoke Sensor threshold not reached and value is 20.73
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.16
+ Heat Sensor threshold not reached and value is 16.94
+ Smoke Sensor threshold not reached and value is 18.75
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.57
+ Heat Sensor threshold not reached and value is 22.67
+ Smoke Sensor threshold not reached and value is 24.31
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.8
+ Heat Sensor threshold reached and value is 34.17
+ Smoke Sensor threshold not reached and value is 20.14
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.43
+ Heat Sensor threshold not reached and value is 27.03
+ Smoke Sensor threshold reached and value is 35.71
+Moderate
+_______________
+
+************************************************************
+20-11-2020 15:46:57
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.13
+ Heat Sensor threshold not reached and value is 28.94
+ Smoke Sensor threshold reached and value is 33.08
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.25
+ Heat Sensor threshold reached and value is 34.86
+ Smoke Sensor threshold reached and value is 30.08
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.9
+ Heat Sensor threshold reached and value is 35.18
+ Smoke Sensor threshold reached and value is 33.91
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.39
+ Heat Sensor threshold not reached and value is 25.97
+ Smoke Sensor threshold not reached and value is 16.04
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.99
+ Heat Sensor threshold reached and value is 30.48
+ Smoke Sensor threshold not reached and value is 28.63
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.22
+ Heat Sensor threshold reached and value is 30.79
+ Smoke Sensor threshold not reached and value is 25.89
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.31
+ Heat Sensor threshold not reached and value is 28.05
+ Smoke Sensor threshold reached and value is 34.88
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.96
+ Heat Sensor threshold not reached and value is 27.83
+ Smoke Sensor threshold not reached and value is 20.4
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.11
+ Heat Sensor threshold reached and value is 35.62
+ Smoke Sensor threshold not reached and value is 17.09
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.98
+ Heat Sensor threshold not reached and value is 22.79
+ Smoke Sensor threshold not reached and value is 21.12
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.56
+ Heat Sensor threshold not reached and value is 22.61
+ Smoke Sensor threshold not reached and value is 17.56
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.63
+ Heat Sensor threshold not reached and value is 24.17
+ Smoke Sensor threshold not reached and value is 18.32
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.22
+ Heat Sensor threshold not reached and value is 25.17
+ Smoke Sensor threshold not reached and value is 20.91
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.13
+ Heat Sensor threshold not reached and value is 16.86
+ Smoke Sensor threshold not reached and value is 24.27
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.43
+ Heat Sensor threshold not reached and value is 26.45
+ Smoke Sensor threshold not reached and value is 25.2
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.64
+ Heat Sensor threshold not reached and value is 17.16
+ Smoke Sensor threshold not reached and value is 15.48
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.43
+ Heat Sensor threshold not reached and value is 27.66
+ Smoke Sensor threshold not reached and value is 21.41
+Moderate
+_______________
+
+************************************************************
+20-11-2020 15:50:25
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.7
+ Heat Sensor threshold not reached and value is 27.69
+ Smoke Sensor threshold not reached and value is 15.46
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.82
+ Heat Sensor threshold not reached and value is 22.98
+ Smoke Sensor threshold reached and value is 30.71
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.4
+ Heat Sensor threshold not reached and value is 19.27
+ Smoke Sensor threshold reached and value is 33.39
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.79
+ Heat Sensor threshold reached and value is 32.87
+ Smoke Sensor threshold reached and value is 31.35
+Critical
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.39
+ Heat Sensor threshold not reached and value is 18.41
+ Smoke Sensor threshold reached and value is 34.95
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.63
+ Heat Sensor threshold not reached and value is 15.68
+ Smoke Sensor threshold not reached and value is 27.25
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.07
+ Heat Sensor threshold reached and value is 31.17
+ Smoke Sensor threshold reached and value is 33.95
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.62
+ Heat Sensor threshold reached and value is 33.16
+ Smoke Sensor threshold not reached and value is 26.34
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.09
+ Heat Sensor threshold not reached and value is 24.78
+ Smoke Sensor threshold not reached and value is 28.83
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.28
+ Heat Sensor threshold reached and value is 31.8
+ Smoke Sensor threshold not reached and value is 15.94
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 23.83
+ Heat Sensor threshold not reached and value is 29.4
+ Smoke Sensor threshold reached and value is 32.76
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.51
+ Heat Sensor threshold not reached and value is 28.34
+ Smoke Sensor threshold not reached and value is 15.47
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.43
+ Heat Sensor threshold not reached and value is 20.3
+ Smoke Sensor threshold not reached and value is 15.85
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.85
+ Heat Sensor threshold reached and value is 34.95
+ Smoke Sensor threshold not reached and value is 27.45
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.78
+ Heat Sensor threshold not reached and value is 24.49
+ Smoke Sensor threshold not reached and value is 17.27
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.83
+ Heat Sensor threshold reached and value is 32.21
+ Smoke Sensor threshold not reached and value is 25.7
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.14
+ Heat Sensor threshold reached and value is 31.57
+ Smoke Sensor threshold not reached and value is 29.2
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.26
+ Heat Sensor threshold not reached and value is 23.88
+ Smoke Sensor threshold not reached and value is 19.96
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 26.53
+ Heat Sensor threshold not reached and value is 15.42
+ Smoke Sensor threshold reached and value is 32.15
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.21
+ Heat Sensor threshold not reached and value is 20.76
+ Smoke Sensor threshold not reached and value is 15.49
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.96
+ Heat Sensor threshold not reached and value is 21.0
+ Smoke Sensor threshold not reached and value is 16.03
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.57
+ Heat Sensor threshold reached and value is 32.28
+ Smoke Sensor threshold reached and value is 34.69
+Critical
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.45
+ Heat Sensor threshold not reached and value is 25.79
+ Smoke Sensor threshold not reached and value is 24.89
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.25
+ Heat Sensor threshold not reached and value is 18.27
+ Smoke Sensor threshold reached and value is 32.05
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.75
+ Heat Sensor threshold not reached and value is 27.03
+ Smoke Sensor threshold not reached and value is 30.0
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.03
+ Heat Sensor threshold not reached and value is 28.12
+ Smoke Sensor threshold not reached and value is 22.45
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 35.87
+ Heat Sensor threshold not reached and value is 15.52
+ Smoke Sensor threshold reached and value is 32.27
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.15
+ Heat Sensor threshold reached and value is 35.23
+ Smoke Sensor threshold not reached and value is 17.12
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.06
+ Heat Sensor threshold reached and value is 32.45
+ Smoke Sensor threshold not reached and value is 25.7
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 15.5
+ Heat Sensor threshold not reached and value is 16.13
+ Smoke Sensor threshold not reached and value is 25.68
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 33.97
+ Heat Sensor threshold not reached and value is 29.4
+ Smoke Sensor threshold reached and value is 33.2
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.83
+ Heat Sensor threshold reached and value is 30.5
+ Smoke Sensor threshold not reached and value is 29.95
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 20.72
+ Heat Sensor threshold not reached and value is 19.09
+ Smoke Sensor threshold reached and value is 32.0
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.82
+ Heat Sensor threshold not reached and value is 16.13
+ Smoke Sensor threshold reached and value is 32.37
+Moderate
+_______________
+
+************************************************************
+20-11-2020 15:58:20
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 26.56
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 15.19
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 27.04
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 19.38
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 26.68
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 15.88
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 25.25
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 17.35
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 19.45
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 19.76
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 24.43
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 30.98
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 19.36
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 25.57
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold reached and value is 35.11
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 16.8
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 22.38
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 20.73
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold reached and value is 31.68
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 33.98
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 16.89
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 23.38
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 25.45
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 27.57
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 27.28
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 34.97
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 20.53
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 30.75
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 24.87
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 21.84
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 21.06
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 29.37
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 20.35
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 32.44
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 20.96
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 31.91
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 21.58
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 23.23
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 26.65
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 15.51
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold reached and value is 32.43
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 33.84
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 24.66
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 34.57
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 18.68
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 29.3
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 23.13
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold reached and value is 30.07
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold not reached and value is 27.7
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 20.01
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold reached and value is 31.85
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 20.46
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 4
+ CO Sensor id is   3
+Heat Sensor id is  
+Room 1
+ CO Sensor threshold reached and value is 31.77
+ Heat Sensor threshold not reached and value is 0.0
+ Smoke Sensor threshold not reached and value is 24.91
+Moderate
+_______________
+
+************************************************************
+20-11-2020 16:18:27
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 24.13
+ Heat Sensor threshold not reached and value is 25.55
+ Smoke Sensor threshold not reached and value is 16.36
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.25
+ Heat Sensor threshold not reached and value is 23.37
+ Smoke Sensor threshold reached and value is 33.39
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.12
+ Heat Sensor threshold reached and value is 35.86
+ Smoke Sensor threshold reached and value is 35.42
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 19.19
+ Heat Sensor threshold not reached and value is 27.68
+ Smoke Sensor threshold not reached and value is 25.38
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.6
+ Heat Sensor threshold not reached and value is 20.98
+ Smoke Sensor threshold not reached and value is 22.18
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.31
+ Heat Sensor threshold reached and value is 30.79
+ Smoke Sensor threshold not reached and value is 26.98
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 21.91
+ Heat Sensor threshold not reached and value is 23.19
+ Smoke Sensor threshold not reached and value is 28.24
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.52
+ Heat Sensor threshold reached and value is 30.24
+ Smoke Sensor threshold not reached and value is 30.0
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 22.13
+ Heat Sensor threshold not reached and value is 15.37
+ Smoke Sensor threshold reached and value is 32.07
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 31.02
+ Heat Sensor threshold not reached and value is 21.53
+ Smoke Sensor threshold reached and value is 31.24
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 30.7
+ Heat Sensor threshold not reached and value is 25.13
+ Smoke Sensor threshold not reached and value is 29.81
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.83
+ Heat Sensor threshold not reached and value is 28.8
+ Smoke Sensor threshold not reached and value is 18.04
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 34.08
+ Heat Sensor threshold not reached and value is 18.52
+ Smoke Sensor threshold not reached and value is 21.35
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 18.26
+ Heat Sensor threshold not reached and value is 26.73
+ Smoke Sensor threshold not reached and value is 19.42
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.27
+ Heat Sensor threshold reached and value is 30.85
+ Smoke Sensor threshold not reached and value is 25.9
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 28.87
+ Heat Sensor threshold not reached and value is 20.9
+ Smoke Sensor threshold not reached and value is 19.86
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 27.05
+ Heat Sensor threshold not reached and value is 17.81
+ Smoke Sensor threshold not reached and value is 25.44
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold reached and value is 32.95
+ Heat Sensor threshold reached and value is 32.47
+ Smoke Sensor threshold not reached and value is 21.26
+Unsafe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 16.92
+ Heat Sensor threshold not reached and value is 18.61
+ Smoke Sensor threshold reached and value is 30.48
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 29.96
+ Heat Sensor threshold not reached and value is 17.07
+ Smoke Sensor threshold reached and value is 33.28
+Moderate
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 17.15
+ Heat Sensor threshold not reached and value is 27.96
+ Smoke Sensor threshold not reached and value is 28.11
+Safe
+_______________
+FIRST FLOOR   Smoke Sensor id is 3
+ CO Sensor id is   1
+Heat Sensor id is  2
+Room 1
+ CO Sensor threshold not reached and value is 25.54
+ Heat Sensor threshold reached and value is 30.64
+ Smoke Sensor threshold not reached and value is 23.57
+Moderate
+_______________
+
+************************************************************
